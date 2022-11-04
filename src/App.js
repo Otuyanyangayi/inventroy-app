@@ -78,7 +78,7 @@ function App() {
     <div style={{  backgroundImage: LightMode ? `url(${Background})`: `url(${background})`,backgroundRepeat:"no-repeat"
     ,backgroundSize: "cover" , height : "100vh", color: LightMode ? "black" : "white" }}>
       <header>
-        <NavBar /
+        <NavBar />
         
        
 
